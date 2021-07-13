@@ -1,0 +1,30 @@
+.result {
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.shape {
+  margin: 0 auto;
+  font-size: 20px;
+  color: rgb(35, 37, 63);
+}
+
+.result {
+  width: 500px;
+  height: 500px;
+  background-color: transparent;
+}
+
+.square {
+  background-color: black;
+}
+
+.rectangle {
+  background-color: black;
+  width: 750px;
+}
+
+.circle {
+  background-color: black;
+  border-radius: 50%;
+}
